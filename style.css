@@ -1,0 +1,67 @@
+body{
+background-image:url("http://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/31/2/FNM_050116-Insert-No2-French-Toast-Squares_s4x3.jpg.rend.hgtvcom.1280.960.jpeg");
+background-repeat:no-repeat;
+background-size:100%;
+}
+
+#text{
+background-color:rgba(255,255,255,0.9);
+font-family:"Arial";
+width:80%;
+height: 800px;
+position:absolute;
+margin:50px 30px 50px 60px;
+  padding-left:50px;
+  padding-right:50px;
+}
+  
+#ingredients{
+  margin-top: 70px;
+  text-decoration: underline;
+}
+
+#title{
+  text-decoration: underline;
+  text-align:center;
+  font-size: 70px;
+  line-height: 90px;
+  color: red;
+  margin: 80px 0 30px 100px;
+}
+
+#list{
+  top: 300px;
+}
+
+#textpart{
+position: relative;
+top: 20px;
+}
+
+#directions{
+  text-decoration: underline;
+}
+
+#cooking{
+  position: absolute;
+  width: 200px;
+  top: 30px;
+  padding:0 0 0 0px;
+}
+
+#image{
+  position: absolute ;
+  top: 200px;
+  right: 2px;
+  bottom:200px;
+  left: 600px;
+  width: 40%;
+}
+
+#sources{
+  text-decoration: underline;
+}
+
+a {
+ color: #000;
+}
